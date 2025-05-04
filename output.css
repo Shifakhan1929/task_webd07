@@ -350,9 +350,6 @@
     }
   }
 }
-* {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
 @property --tw-border-style {
   syntax: "*";
   inherits: false;
